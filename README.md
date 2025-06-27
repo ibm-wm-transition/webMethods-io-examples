@@ -36,6 +36,6 @@ For more information you can Ask a Question in the [TECHcommunity Forums](https:
 
 You can find additional information in the [Software AG TECHcommunity](https://tech.forums.softwareag.com/tag/webmethods-io-integration).
 ______________________
-These tools are provided as-is and without warranty or support. They do not constitute part of the webMethods product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
+These tools are provided as-is and without warranty or support. They do not constitute part of the webMethods product suite. Users are free to use, fork and modify them, subject to the license agreement. While we welcome contributions, we cannot guarantee to include every contribution in the master project.
 
 Contact us at [TECHcommunity](mailto:technologycommunity@softwareag.com?subject=Github/SoftwareAG) if you have any questions.
